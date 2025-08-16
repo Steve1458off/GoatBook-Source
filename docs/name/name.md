@@ -77,6 +77,9 @@ mdn：本站开发者，平平无奇的审稿人
 ## zbldyyds {#zbldyyds}
 2025/8/15加入茕羊国际，~~爱好赤石~~（群内唯一担任）<br>
 因为发Bad Apple!被赐国姓
+## 茕茕孑立的花火 {#steve1458}
+茕茕孑立的山羊的兄弟
+一个全能游戏主播 主玩MC布吉岛、原神、三角洲
 
 <script src="/js/dist/autoload.js"></script>
  <script>
